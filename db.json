@@ -1,0 +1,7 @@
+{
+  "officials": [
+    {id : 1 , firstname:'John',lastname:'Decosta'},
+    {id : 2 , firstname:'Larry',lastname:'Decosta'},
+    {id : 3 , firstname:'Jayson',lastname:'Decosta'}
+  ]
+}
